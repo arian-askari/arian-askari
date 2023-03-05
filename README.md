@@ -1,5 +1,7 @@
 ### Hi there 👋
-My name is Arian and I’m a third year PhD candidate at Leiden University. I am most skilled in: Text Mining and Information Retrieval.
+
+
+Hi, I am Arian, PhD candidate at Leiden university supervised by Prof. Suzan Verberne and co-supervised by Gabriella Pasi. I research in the field of Information Retrieval on effective retrieval models for web and professional search. Currently, I am doing visiting research at the University of Amsterdam with Prof. Evangelos Kanoulas and Mohammad Aliannejadi in there I have focused on the conversational search and analyzing ChatGPT from a retrieval point of view.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arian-askari)](https://github.com/anuraghazra/github-readme-stats)
